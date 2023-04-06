@@ -7,10 +7,14 @@ Followings are the descriptions of contents of this project.
 
 - Wireframe.pdf : A rough presentation(contains wireframes) pdf. The coaches were very disappointed for its poorness. We accidentlly dropped architecture and technical challenges(or trouble shooting) pages. 
 
-- html : html, css(Bulma), javascript
-- app.py : python-Flask, Jinja2, JWT Login
+- RED7.zip : Final presentation(for demonstration). we released this project on AWS.
+	* htmls : html, css(Bulma), javascript
+		1. log_in.html
+		2. sign.html
+		3. Main.html
+		4. mypage.html
+	* app.py : python-Flask, Jinja2, JWT Login
 
-- RED7.ppt : Final presentation(for demonstration). we released this project on AWS.
 - img.zip : image files in RED7.ppt
 
 Our members are three. Mulverry(me), frombread, jjeong1069.
