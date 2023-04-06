@@ -5,7 +5,7 @@ It takes 3 days.(23.4.3~23.4.6.)
 
 Followings are the descriptions of contents of this project.
 
-- Red7.pdf : A rough presentation(contains wireframes) pdf. The coaches were very disappointed for its poorness. We accidentlly dropped architecture and technical challenges(or trouble shooting) pages. 
+- Wireframe.pdf : A rough presentation(contains wireframes) pdf. The coaches were very disappointed for its poorness. We accidentlly dropped architecture and technical challenges(or trouble shooting) pages. 
 
 - html : html, css(Bulma), javascript
 - app.py : python-Flask, Jinja2, JWT Login
